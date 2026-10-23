@@ -6,7 +6,7 @@ I work primarily with **Python, Django, React, and PostgreSQL**, with an interes
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,react,ts,go,postgres,mysql,linux,docker,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,react,ts,go,postgres,mysql,linux,docker,git&perline=10)](https://skillicons.dev)
 
 ### 🚀 Featured Projects
 
