@@ -6,7 +6,7 @@ I work primarily with **Python, Django, React, and PostgreSQL**, with an interes
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,react,ts,go,postgres,mysql,linux,docker,git&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,react,js,ts,go,postgres,mysql,linux,docker&perline=11)](https://skillicons.dev)
 
 ### 🚀 Featured Projects
 
@@ -14,6 +14,12 @@ I work primarily with **Python, Django, React, and PostgreSQL**, with an interes
 - **[Forge](https://github.com/shibinshibii/forge)** — A lightweight Go CLI for scaffolding API projects.
 - **[PDF Query App](https://github.com/shibinshibii/pdf-query-app)** — Ask questions about your PDFs.
 
-### 🔗 Find me elsewhere
+### 🤝 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/shibinshibi/) · [GitHub](https://github.com/shibinshibii)
+I'm always open to discuss interesting projects and opportunities to collaborate.
+
+📧 **Email:** [shibi393493@gmail.com](mailto:shibi393493@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shibinshibi/)
+
+
